@@ -1,0 +1,67 @@
+station,station_code,Latitude,Longitude,Elevation of ground above mean sea-level (metres),Wind,Temp,Relative Humidity,Pressure
+Beas River,(BR1),"22o29'36""","114o06'18""",11,,?,?,
+Bluff Head,(BHD),"22o11'51""","114o12'43""",94,?,?,,
+Central Pier,(CP1),"22o17'20""","114o09'21""",19,?,,,
+Cheung Chau,(CCH),"22o12'04""","114o01'36""",72,?,?,?,?
+Clear Water Bay,(CWB),"22o15'48""","114o17'59""",66,,?,?,
+Green Island,(GI),"22o17'06""","114o06'46""",88,?,,,
+Happy Valley,(HPV),"22o16'14""","114o11'01""",5,,?,,
+Hong Kong Park,(HKP),"22o16'42""","114o09'44""",26,,?,?,
+Kai Tak,(SE),"22o18'35""","114o12'48""",3,?,,,
+Kai Tak Runway Park,(SE1),"22o18'18""","114o13'1""",4,,?,?,
+Kadoorie Farm and Botanic Garden,(KFB),"22o25'58""","114o07'15""",307,,?,,
+Kat O,(KAT),"22o32'11""","114o18'07""",10,,?,,
+Kau Sai Chau,(KSC),"22o22'13""","114o18'45""",39,,?,?,
+King's Park,(KP),"22o18'43""","114o10'22""",65,?,?,?,?
+Kowloon City,(KLT),"22o20'06""","114o11'05""",92,,?,?,
+Kwun Tong,(KTG),"22o19'07""","114o13'29""",90,,?,,
+Lamma Island,(LAM),"22o13'34""","114o06'31""",7,?,,,
+Lau Fau Shan,(LFS),"22o28'08""","113o59'01""",31,?,?,?,?
+Nei Lak Shan,(NLS),"22o15'48""","113o54'40""",747,?,?,?,?
+New Tsing Yi Station,(TY1),"22o20'39""","114o06'36""",8,,?,?,
+Ngong Ping,(NGP),"22o15'31""","113o54'46""",593,?,?,,
+Pak Tam Chung (Tsak Yue Wu),(TYW),"22o24'10""","114o19'23""",5,,?,?,
+Peng Chau,(PEN),"22o17'28""","114o02'36""",34,?,?,?,?
+Ping Chau,(EPC),"22o32'48""","114o25'42""",29,?,?,,
+Sai Kung,(SKG),"22o22'32""","114o16'28""",4,?,?,?,
+Sha Lo Wan,(SLW),"22o17'28""","113o54'25""",61,?,?,?,?
+Sha Tin,(SHA),"22o24'09""","114o12'36""",6,?,?,?,?
+Sham Shui Po,(SSP),"22o20'09""","114o08'13""",11,,?,,
+Shau Kei Wan,(SKW),"22o16'54""","114o14'10""",53,,?,?,
+Shek Kong,(SEK),"22o26'10""","114o05'05""",16,?,?,?,?
+Sheung Shui,(SSH),"22o30'07""","114o06'40""",10,,?,?,?
+Stanley,(STY),"22o12'51""","114o13'07""",31,,?,,
+Ta Kwu Ling,(TKL),"22o31'43""","114o09'24""",15,?,?,?,?
+Tai Lung,(TLS),"22o29'05""","114o07'03""",21,,?,?,
+Tai Mei Tuk,(PLC),"22o28'31""","114o14'15""",51,?,?,,
+Tai Mo Shan,(TMS),"22o24'38""","114o07'28""",955,?,?,?,?
+Tai Po(Yuen Chau Tsai Park),(YCT),"22o26'54""","114o10'38""",6,,?,?,?
+Tap Mun,(TAP),"22o28'17""","114o21'38""",15,,?,,
+Tate's Cairn,(TC),"22o21'28""","114o13'04""",572,?,?,?,?
+The Peak,(VP1),"22o15'51""","114o09'18""",406,,?,,
+Tseung Kwan O,(JKB),"22o18'57""","114o15'20""",38,?,?,?,
+Tsuen Wan,(TWN),"22o23'01""","114o06'28""",142,,?,?,
+Tsuen Wan Shing Mun Valley,(TW),"22o22'32""","114o07'36""",35,,?,?,
+Tuen Mun Children and Juvenile Home,(TU1),"22o23'09""","113o57'51""",28,,?,?,
+Waglan Island,(WGL),"22o10'56""","114o18'12""",56,?,?,?,?
+Wetland Park,(WLP),"22o28'00""","114o00'32""",4,?,?,?,?
+Wong Chuk Hang,(HKS),"22o14'52""","114o10'25""",5,?,?,?,
+Wong Tai Sin,(WTS),"22o20'22""","114o12'19""",21,,?,,
+Yuen Long Park,(YLP),"22o26'27""","114o01'06""",8,,?,,
+"Automatic Weather Buoy No.2 (Hong Kong International Airport, West)",(WB2),"22o17'28""","113o52'56""",9,?,?,?,?
+"Automatic Weather Buoy No.8 (Hong Kong International Airport, East)",(WB8),"22o18'21""","113o57'14""",9,?,?,?,?
+Cheung Chau Beach,(CCB),"22o12'39""","114o01'45""",27,?,,,
+North Point,(NP),"22o17'40""","114o11'59""",26,?,,,
+Sha Chau,(SC),"22o20'45""","113o53'28""",31,?,,,
+Shell Oil Depot,(SHL),"22o20'48""","114o05'11""",43,?,,,
+Star Ferry(Kowloon),(SF),"22o17'35""","114o10'07""",18,?,,,
+Tai Mo To,(TMT),"22o19'47""","113o58'00""",15,?,,,
+Tai O,(TO),"22o15'22""","113o51'17""",105,?,,,
+Tai Po Kau,(TPK),"22o26'33""","114o11'03""",12,?,,,
+Tuen Mun Government Offices,(TUN),"22o23'26""","113o58'36""",69,?,,,
+Yi Tung Shan,(YTS),"22o15'33""","113o57'51""",752,?,,,
+Tap Mun East,(TME),"22o28'06""","114o21'47""",48,?,,,
+Hong Kong Observatory,(HKO),"22o18'07""","114o10'27""",32,?,?,?,?
+Hong Kong International Airport,(HKA),"22o18'34""","113o55'19""",6,?,?,?,?
+Tsing Yi Wind Station,(TYW),"22o20'48""","114o05'10""",33,?,,,
+Hong Kong Sea School,(SS),"22o13'06""","114o12'50""",32,?,,,
