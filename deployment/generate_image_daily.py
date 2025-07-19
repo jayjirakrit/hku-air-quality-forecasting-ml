@@ -63,7 +63,7 @@ def generate_image(base_dir):
     max_ts = max(df["datetime"].max() for df in dfs.values())
     start = max_ts - timedelta(hours=47)
     time_full_idx = pd.date_range(start, max_ts, freq="1H")
-
+    print(f"Selecting time from {time_full_idx[0]} to {time_full_idx[-1]}")
     def format_wind_direction(wind_direction):
         bearing = {
             "North": 0,
